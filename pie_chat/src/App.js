@@ -6,7 +6,11 @@ function App() {
     <div className="App">
       <h1>Pie_Chart using react</h1>
       <h2>this is react pie_chart</h2>
+<<<<<<< HEAD
+      <h4>This is heading four</h4>
+=======
       <h3>this is heading threep</h3>
+>>>>>>> origin/main
 <PieChart/>
     </div>
   );
